@@ -1,0 +1,134 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 3.7 (camogen) interpreter library">
+      <CLASSES>
+        <root url="file://C:/Program Files/Python37/DLLs" />
+        <root url="file://C:/Program Files/Python37/Lib" />
+        <root url="file://C:/Program Files/Python37" />
+        <root url="file://C:/dev-git/camogen/venv" />
+        <root url="file://C:/dev-git/camogen/venv/Lib/site-packages" />
+        <root url="jar://C:/dev-git/camogen/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" />
+        <root url="file://C:/dev-git/camogen/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.2/system/python_stubs/1224941555" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Python37/DLLs" />
+        <root url="file://C:/Program Files/Python37/Lib" />
+        <root url="file://C:/Program Files/Python37" />
+        <root url="file://C:/dev-git/camogen/venv" />
+        <root url="file://C:/dev-git/camogen/venv/Lib/site-packages" />
+        <root url="jar://C:/dev-git/camogen/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" />
+        <root url="file://C:/dev-git/camogen/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.2/system/python_stubs/1224941555" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 (coyote.life) interpreter library">
+      <CLASSES>
+        <root url="file://C:/Program Files/Python37/DLLs" />
+        <root url="file://C:/Program Files/Python37/Lib" />
+        <root url="file://C:/Program Files/Python37" />
+        <root url="file://C:/dev-git/coyote.life/venv" />
+        <root url="file://C:/dev-git/coyote.life/venv/Lib/site-packages" />
+        <root url="jar://C:/dev-git/coyote.life/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" />
+        <root url="file://C:/dev-git/coyote.life/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.2/system/python_stubs/-1553865158" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Python37/DLLs" />
+        <root url="file://C:/Program Files/Python37/Lib" />
+        <root url="file://C:/Program Files/Python37" />
+        <root url="file://C:/dev-git/coyote.life/venv" />
+        <root url="file://C:/dev-git/coyote.life/venv/Lib/site-packages" />
+        <root url="jar://C:/dev-git/coyote.life/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" />
+        <root url="file://C:/dev-git/coyote.life/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.2/system/python_stubs/-1553865158" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 (pypalette) interpreter library">
+      <CLASSES>
+        <root url="file://C:/Program Files/Python37/DLLs" />
+        <root url="file://C:/Program Files/Python37/Lib" />
+        <root url="file://C:/Program Files/Python37" />
+        <root url="file://C:/dev-git/pypalette/venv" />
+        <root url="file://C:/dev-git/pypalette/venv/Lib/site-packages" />
+        <root url="jar://C:/dev-git/pypalette/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" />
+        <root url="file://C:/dev-git/pypalette/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.2/system/python_stubs/-1337833291" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Python37/DLLs" />
+        <root url="file://C:/Program Files/Python37/Lib" />
+        <root url="file://C:/Program Files/Python37" />
+        <root url="file://C:/dev-git/pypalette/venv" />
+        <root url="file://C:/dev-git/pypalette/venv/Lib/site-packages" />
+        <root url="jar://C:/dev-git/pypalette/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" />
+        <root url="file://C:/dev-git/pypalette/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.2/system/python_stubs/-1337833291" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 interpreter library">
+      <CLASSES>
+        <root url="file://C:/Program Files/Python37/DLLs" />
+        <root url="file://C:/Program Files/Python37/Lib" />
+        <root url="file://C:/Program Files/Python37" />
+        <root url="file://C:/Program Files/Python37/Lib/site-packages" />
+        <root url="jar://C:/Program Files/Python37/Lib/site-packages/camogen-0.1.0-py3.7.egg!/" />
+        <root url="file://C:/Program Files/Python37/Lib/site-packages/Pillow-6.2.1-py3.7-win-amd64.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.2/system/python_stubs/-991083293" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Python37/DLLs" />
+        <root url="file://C:/Program Files/Python37/Lib" />
+        <root url="file://C:/Program Files/Python37" />
+        <root url="file://C:/Program Files/Python37/Lib/site-packages" />
+        <root url="jar://C:/Program Files/Python37/Lib/site-packages/camogen-0.1.0-py3.7.egg!/" />
+        <root url="file://C:/Program Files/Python37/Lib/site-packages/Pillow-6.2.1-py3.7-win-amd64.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.2/system/python_stubs/-991083293" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
+</application>

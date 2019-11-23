@@ -1,16 +1,11 @@
 <scheme name="_@user_Nord" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-05-15T11:58:08</property>
+    <property name="created">2019-11-22T19:04:33</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-05-29T15:29:04</property>
+    <property name="ideVersion">2019.1.3.0.0</property>
+    <property name="modified">2019-11-22T19:23:40</property>
     <property name="originalScheme">Nord</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.05" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="a3be8c" />
     <option name="ANNOTATIONS_COLOR" value="d8dee9" />
@@ -142,7 +137,7 @@
     </option>
     <option name="BASH.SHEBANG">
       <value>
-        <option name="FOREGROUND" value="4c566a" />
+        <option name="FOREGROUND" value="616e88" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -283,7 +278,7 @@
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="4c566a" />
+        <option name="FOREGROUND" value="616e88" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
@@ -487,7 +482,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4c566a" />
+        <option name="FOREGROUND" value="616e88" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -518,7 +513,7 @@
     <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4c566a" />
+        <option name="FOREGROUND" value="616e88" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -529,7 +524,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="4c566a" />
+        <option name="FOREGROUND" value="616e88" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
@@ -605,7 +600,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4c566a" />
+        <option name="FOREGROUND" value="616e88" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -771,7 +766,7 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="4c566a" />
+        <option name="FOREGROUND" value="616e88" />
         <option name="BACKGROUND" value="3b4252" />
       </value>
     </option>
@@ -950,9 +945,6 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
-    <option name="HTML_CODE">
-      <value />
-    </option>
     <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
@@ -991,7 +983,7 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="4c566a" />
+        <option name="FOREGROUND" value="616e88" />
         <option name="BACKGROUND" value="3b4252" />
       </value>
     </option>
@@ -1034,6 +1026,7 @@
         <option name="FOREGROUND" value="5e81ac" />
       </value>
     </option>
+    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
@@ -1064,9 +1057,7 @@
         <option name="FOREGROUND" value="88c0d0" />
       </value>
     </option>
-    <option name="KOTLIN_LABEL">
-      <value />
-    </option>
+    <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
         <option name="EFFECT_COLOR" value="d8dee9" />
@@ -1103,6 +1094,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="KOTLIN_VARIABLE_AS_FUNCTION">
       <value>
         <option name="FOREGROUND" value="88c0d0" />
@@ -1168,7 +1160,7 @@
     </option>
     <option name="LOG_EXPIRED_ENTRY">
       <value>
-        <option name="FOREGROUND" value="4c566a" />
+        <option name="FOREGROUND" value="616e88" />
       </value>
     </option>
     <option name="LOG_WARNING_OUTPUT">
@@ -1209,7 +1201,7 @@
     </option>
     <option name="MARKDOWN_BLOCK_QUOTE">
       <value>
-        <option name="FOREGROUND" value="4c566a" />
+        <option name="FOREGROUND" value="616e88" />
       </value>
     </option>
     <option name="MARKDOWN_CODE_BLOCK">
@@ -1311,8 +1303,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="BACKGROUND" value="434c5e" />
+        <option name="EFFECT_COLOR" value="88c0d0" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
@@ -1595,7 +1587,7 @@
     </option>
     <option name="TDIFF_EXCLUDED_COLUMN">
       <value>
-        <option name="FOREGROUND" value="4c566a" />
+        <option name="FOREGROUND" value="616e88" />
       </value>
     </option>
     <option name="TDIFF_FUZZY_MATCHED">
@@ -1674,6 +1666,7 @@
         <option name="FOREGROUND" value="81a1c1" />
       </value>
     </option>
+    <option name="VELOCITY_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="VELOCITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="8fbcbb" />
@@ -1732,12 +1725,14 @@
     </option>
     <option name="XML_TAG_DATA" baseAttributes="TEXT" />
     <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="XPATH.XPATH_NAME">
       <value>
         <option name="FOREGROUND" value="8fbcbb" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="88c0d0" />

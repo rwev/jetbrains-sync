@@ -11,4 +11,8 @@
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="TodoViewGroupByShowPackages" />
+  <action id="ToggleBookmark" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
 </keymap>

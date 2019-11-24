@@ -3,8 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html, *.less" />
-    <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -34,5 +32,6 @@
     <mask>*.html</mask>
     <mask>*.html,!public/**.html</mask>
     <mask>*.html, *.less</mask>
+    <mask>*.md</mask>
   </component>
 </application>

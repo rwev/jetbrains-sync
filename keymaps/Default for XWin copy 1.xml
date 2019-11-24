@@ -21,4 +21,8 @@
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="ToggleBookmark" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
 </keymap>

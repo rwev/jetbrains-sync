@@ -3,6 +3,10 @@
   <ClojureCodeStyleSettings>{
   :cursive.formatting/align-binding-forms true
 }</ClojureCodeStyleSettings>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="2" />
+    <option name="HTML_ALIGN_TEXT" value="true" />
+  </HTMLCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="RIGHT_MARGIN" value="150" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />

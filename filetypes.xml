@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="philosophy--money--fisher-and-consultant" type="Markdown" />
       <mapping ext="vim" type="Markdown" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="img" type="PLAIN_TEXT" />
       <mapping ext="mat" type="PLAIN_TEXT" />

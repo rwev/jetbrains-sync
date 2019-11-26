@@ -59,6 +59,9 @@
   </action>
   <action id="GotoNextError" />
   <action id="GotoPreviousError" />
+  <action id="IncomingChanges.Refresh">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="MoveLineDown">

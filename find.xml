@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*,scss</mask>
@@ -33,5 +32,6 @@
     <mask>*.html, !/public</mask>
     <mask>*.html</mask>
     <mask>*.md</mask>
+    <mask>*.js</mask>
   </component>
 </application>

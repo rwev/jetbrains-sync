@@ -4,9 +4,17 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id=":cursive.editor.actions/show-type" />
   <action id=":cursive.repl.actions/run-top-sexp">
     <keyboard-shortcut first-keystroke="shift alt p" />
     <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
@@ -44,7 +52,13 @@
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
   <action id="EditorDeleteLine" />
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
@@ -59,6 +73,9 @@
   </action>
   <action id="GotoNextError" />
   <action id="GotoPreviousError" />
+  <action id="IncomingChanges.Refresh">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="MoveLineDown">
@@ -106,6 +123,7 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="WebOpenInAction" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.MoveWatchDown" />
   <action id="XDebugger.MoveWatchUp" />

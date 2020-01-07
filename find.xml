@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.md" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -31,7 +32,7 @@
     <mask>*.html, *.less</mask>
     <mask>le</mask>
     <mask>*.html, !/public</mask>
-    <mask>*.md</mask>
     <mask>*.html</mask>
+    <mask>*.md</mask>
   </component>
 </application>

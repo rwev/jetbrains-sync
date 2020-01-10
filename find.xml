@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -14,7 +15,6 @@
     <mask>*,ts, !*.ts.html</mask>
     <mask>*,ts</mask>
     <mask>*.ts, *.html, !*.ts.html</mask>
-    <mask>*.xml</mask>
     <mask>*.json</mask>
     <mask>!*.ts, !*.html</mask>
     <mask>*.ts, !*.spec.ts</mask>
@@ -33,5 +33,6 @@
     <mask>*.html, !/public</mask>
     <mask>*.html</mask>
     <mask>*.md</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

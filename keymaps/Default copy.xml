@@ -117,6 +117,9 @@
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="ToggleBookmarkWithMnemonic" />
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="f11" />
   </action>

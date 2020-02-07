@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
+    <option name="FILE_MASK" value=" *Test.java" />
     <mask>*.mxml</mask>
     <mask>*,scss</mask>
     <mask>*,clj</mask>
@@ -35,5 +35,6 @@
     <mask>*.md</mask>
     <mask>pom.xml</mask>
     <mask>*.java, !*Test.java</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>

@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*,scss</mask>
     <mask>*,clj</mask>
     <mask>*,ts, !*.html,!*.xml, !*.info</mask>
@@ -23,7 +24,6 @@
     <mask>*.html, !*.ts.html,, !*.html.html</mask>
     <mask>*.html, !*.ts.html,, !*.html.html, !*index.html</mask>
     <mask>*.clj</mask>
-    <mask>*.sql</mask>
     <mask>*.ts</mask>
     <mask>*.html,!public/**.html</mask>
     <mask>*.html, *.less</mask>
@@ -37,5 +37,6 @@
     <mask>*.py</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.sql</mask>
   </component>
 </application>

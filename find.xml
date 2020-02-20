@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*,scss</mask>
     <mask>*,clj</mask>
     <mask>*,ts, !*.html,!*.xml, !*.info</mask>
@@ -35,8 +35,8 @@
     <mask>*.java, !*Test.java</mask>
     <mask>*Test.java</mask>
     <mask>*.py</mask>
-    <mask>*.java</mask>
     <mask>pom.xml</mask>
     <mask>*.sql</mask>
+    <mask>*.java</mask>
   </component>
 </application>

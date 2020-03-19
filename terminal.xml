@@ -1,5 +1,0 @@
-<application>
-  <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="&quot;C:\Windows\System32\bash.exe&quot; -c  &quot;zsh; source ~/,zshrc&quot;" />
-  </component>
-</application>

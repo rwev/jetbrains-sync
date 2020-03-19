@@ -1,0 +1,11 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ChangesView.Move" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="GotoFile" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
+</keymap>

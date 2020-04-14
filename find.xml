@@ -14,5 +14,6 @@
     <mask>*.properties</mask>
     <mask>*Test.java</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>

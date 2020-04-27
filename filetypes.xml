@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="sql" type="PLAIN_TEXT" />
+      <removed_mapping ext="sql" type="SQL" />
       <mapping pattern="GOV-155-audit-user-fund-transactions" type="XML" />
     </extensionMap>
   </component>

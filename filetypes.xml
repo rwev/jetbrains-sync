@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="PermissionResourceTest" type="CLASS" />
       <mapping pattern="AmInternalBaseJerseyTest" type="JAVA" />
       <mapping pattern="AmInternalBaseJerseyTest.java" type="JAVA" />
       <mapping pattern="GOV-155-audit-user-fund-transactions" type="XML" />

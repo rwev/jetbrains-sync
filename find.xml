@@ -16,10 +16,10 @@
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.scss</mask>
-    <mask>*.java</mask>
     <mask>*.ts</mask>
-    <mask>*.sql</mask>
     <mask>*Client.java</mask>
     <mask>*Service.java</mask>
+    <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>

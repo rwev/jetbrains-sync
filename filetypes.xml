@@ -7,6 +7,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="GOV-155-audit-user-fund-transactions" type="XML" />
+      <mapping ext="gpx" type="XML" />
       <removed_mapping pattern="UserRequest.ts" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

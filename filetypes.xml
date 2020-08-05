@@ -1,14 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="PermissionResourceTest" type="CLASS" />
-      <mapping pattern="AmInternalBaseJerseyTest" type="JAVA" />
-      <mapping pattern="AmInternalBaseJerseyTest.java" type="JAVA" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="GOV-155-audit-user-fund-transactions" type="XML" />
       <mapping ext="gpx" type="XML" />
+      <removed_mapping ext="java" approved="true" type="CLASS" />
+      <removed_mapping pattern="AmInternalBaseJerseyTest" approved="true" type="JAVA" />
       <removed_mapping pattern="UserRequest.ts" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="PermissionResourceTest" approved="true" type="CLASS" />
+      <removed_mapping pattern="AmInternalBaseJerseyTest.java" approved="true" type="JAVA" />
     </extensionMap>
   </component>
 </application>

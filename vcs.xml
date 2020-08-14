@@ -34,6 +34,10 @@
           <option name="url" value="https://gitlab.com/rwev/craigslist_notify.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/oskird/Kaggle-Home-Credit-Default-Risk-Solution.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/personal" />

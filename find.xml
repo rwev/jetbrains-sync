@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.css</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
@@ -10,7 +11,6 @@
     <mask>*.sql, !*//target//*</mask>
     <mask>*.ts, !/node_modules/**.ts</mask>
     <mask>*ResourceTest.java</mask>
-    <mask>*.scss</mask>
     <mask>*Client.java</mask>
     <mask>*Service.java</mask>
     <mask>*.xml</mask>
@@ -23,5 +23,6 @@
     <mask>*.md</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.scss</mask>
   </component>
 </application>

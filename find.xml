@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.txt, *.clj" />
+    <option name="FILE_MASK" value="*.edn" />
     <mask>*.css</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
@@ -33,5 +33,6 @@
     <mask>*.java, !*Test.java</mask>
     <mask>*.txt</mask>
     <mask>*.txt, *.clj</mask>
+    <mask>*.edn</mask>
   </component>
 </application>

@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.clj" />
     <mask>*.css</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
@@ -27,7 +28,7 @@
     <mask>*.java, !*Test.java</mask>
     <mask>*.txt, *.clj</mask>
     <mask>*.edn</mask>
-    <mask>*.clj</mask>
     <mask>*.txt</mask>
+    <mask>*.clj</mask>
   </component>
 </application>

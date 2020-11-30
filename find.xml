@@ -25,10 +25,10 @@
     <mask>pom.xml</mask>
     <mask>*.md</mask>
     <mask>*.py</mask>
-    <mask>*.java, !*Test.java</mask>
     <mask>*.txt, *.clj</mask>
     <mask>*.edn</mask>
     <mask>*.txt</mask>
+    <mask>*.java, !*Test.java</mask>
     <mask>*.clj</mask>
   </component>
 </application>

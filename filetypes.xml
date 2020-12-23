@@ -1,18 +1,19 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="GOV-155-audit-user-fund-transactions" type="XML" />
       <mapping ext="gpx" type="XML" />
-      <removed_mapping ext="txt" approved="true" type="requirements.txt" />
-      <removed_mapping ext="txt" approved="true" type="requirements.txt" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="java" approved="true" type="CLASS" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="txt" approved="true" type="requirements.txt" />
       <removed_mapping pattern="AmInternalBaseJerseyTest" approved="true" type="JAVA" />
-      <removed_mapping pattern="UserRequest.ts" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="PermissionResourceTest" approved="true" type="CLASS" />
       <removed_mapping pattern="AmInternalBaseJerseyTest.java" approved="true" type="JAVA" />
+      <removed_mapping pattern="PermissionResourceTest" approved="true" type="CLASS" />
+      <removed_mapping pattern="UserRequest.ts" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

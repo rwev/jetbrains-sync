@@ -31,8 +31,8 @@
     <mask>*.java, !*Test.java</mask>
     <mask>*.clj, *.txt</mask>
     <mask>*.clj, *.txt, *.end</mask>
-    <mask>*.java</mask>
     <mask>*.clj</mask>
+    <mask>*.java</mask>
     <mask>pom.xml</mask>
   </component>
 </application>

@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.css</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
@@ -20,7 +21,6 @@
     <mask>*.html</mask>
     <mask>*.html, !*.ts.html</mask>
     <mask>*.scss</mask>
-    <mask>pom.xml</mask>
     <mask>*.md</mask>
     <mask>*.py</mask>
     <mask>*.txt, *.clj</mask>
@@ -31,5 +31,6 @@
     <mask>*.clj, *.txt, *.end</mask>
     <mask>*.java</mask>
     <mask>*.clj</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>

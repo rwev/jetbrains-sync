@@ -9,6 +9,7 @@
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="java" approved="true" type="CLASS" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="tex" approved="true" type="LaTeX file" />
       <removed_mapping ext="txt" approved="true" type="requirements.txt" />
       <removed_mapping pattern="AmInternalBaseJerseyTest" approved="true" type="JAVA" />
       <removed_mapping pattern="AmInternalBaseJerseyTest.java" approved="true" type="JAVA" />

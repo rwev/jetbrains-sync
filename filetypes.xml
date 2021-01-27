@@ -4,6 +4,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping pattern="GOV-155-audit-user-fund-transactions" type="XML" />
       <mapping ext="gpx" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />

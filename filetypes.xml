@@ -9,6 +9,7 @@
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping pattern="GOV-155-audit-user-fund-transactions" type="XML" />
       <mapping ext="gpx" type="XML" />
+      <mapping ext="kml" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="java" approved="true" type="CLASS" />
       <removed_mapping ext="psd" approved="true" type="Image" />

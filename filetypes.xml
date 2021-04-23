@@ -1,0 +1,25 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="LotValueProvider" type="AUTO_DETECTED" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping ext="kmz" type="PLAIN_TEXT" />
+      <mapping ext="exec" type="PLAIN_TEXT" />
+      <mapping pattern="GOV-155-audit-user-fund-transactions" type="XML" />
+      <mapping ext="gpx" type="XML" />
+      <mapping ext="kml" type="XML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="java" approved="true" type="CLASS" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="tex" approved="true" type="LaTeX file" />
+      <removed_mapping ext="txt" approved="true" type="requirements.txt" />
+      <removed_mapping pattern="AmInternalBaseJerseyTest" approved="true" type="JAVA" />
+      <removed_mapping pattern="AmInternalBaseJerseyTest.java" approved="true" type="JAVA" />
+      <removed_mapping pattern="PermissionResourceTest" approved="true" type="CLASS" />
+      <removed_mapping pattern="UserRequest.ts" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

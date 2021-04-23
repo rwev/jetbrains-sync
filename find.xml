@@ -1,0 +1,37 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.md" />
+    <mask>*.css</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.sql, !target/*</mask>
+    <mask>*.sql, !*//target//*</mask>
+    <mask>*.ts, !/node_modules/**.ts</mask>
+    <mask>*ResourceTest.java</mask>
+    <mask>*Client.java</mask>
+    <mask>*Service.java</mask>
+    <mask>*.xml</mask>
+    <mask>*Test.java</mask>
+    <mask>*.ts, !ts.html</mask>
+    <mask>*.ts</mask>
+    <mask>*.sql</mask>
+    <mask>*.html</mask>
+    <mask>*.html, !*.ts.html</mask>
+    <mask>*.scss</mask>
+    <mask>*.py</mask>
+    <mask>*.txt, *.clj</mask>
+    <mask>*.edn</mask>
+    <mask>*.txt</mask>
+    <mask>*.java, !*Test.java</mask>
+    <mask>*.clj, *.txt</mask>
+    <mask>*.clj, *.txt, *.end</mask>
+    <mask>*.clj</mask>
+    <mask>pom.xml</mask>
+    <mask>!*.java</mask>
+    <mask>*.java</mask>
+    <mask>*.md</mask>
+  </component>
+</application>

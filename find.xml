@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.md" />
     <mask>*.css</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
@@ -20,7 +19,6 @@
     <mask>*.sql</mask>
     <mask>*.html</mask>
     <mask>*.html, !*.ts.html</mask>
-    <mask>*.scss</mask>
     <mask>*.py</mask>
     <mask>*.txt, *.clj</mask>
     <mask>*.edn</mask>
@@ -33,5 +31,6 @@
     <mask>!*.java</mask>
     <mask>*.java</mask>
     <mask>*.md</mask>
+    <mask>*.scss</mask>
   </component>
 </application>

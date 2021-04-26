@@ -1,0 +1,19 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
+</keymap>

@@ -32,5 +32,6 @@
     <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.scss</mask>
+    <mask>*.theme.scss</mask>
   </component>
 </application>

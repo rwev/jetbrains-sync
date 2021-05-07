@@ -3,6 +3,7 @@
     <option name="customScope" value="src" />
     <option name="defaultScopeName" value="src" />
     <option name="SEARCH_SCOPE" value="src" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.css</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
@@ -29,9 +30,9 @@
     <mask>!*.java</mask>
     <mask>*.java</mask>
     <mask>*.md</mask>
-    <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.scss</mask>
     <mask>*.theme.scss</mask>
+    <mask>*.ts</mask>
   </component>
 </application>

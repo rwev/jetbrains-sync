@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.ts, !/node_modules/**.ts</mask>
+    <option name="FILE_MASK" value="*.html, *.ts" />
     <mask>*ResourceTest.java</mask>
     <mask>*Client.java</mask>
     <mask>*Service.java</mask>
@@ -33,5 +33,6 @@
     <mask>*.json</mask>
     <mask>*.ts,</mask>
     <mask>*.scss</mask>
+    <mask>*.html, *.ts</mask>
   </component>
 </application>

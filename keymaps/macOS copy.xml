@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FindNext" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
@@ -24,6 +25,9 @@
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="ctrl meta f" />
     <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />

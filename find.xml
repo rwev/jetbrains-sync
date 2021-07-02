@@ -3,14 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*ResourceTest.java</mask>
     <mask>*Client.java</mask>
     <mask>*Service.java</mask>
     <mask>*.xml</mask>
     <mask>*Test.java</mask>
     <mask>*.ts, !ts.html</mask>
     <mask>*.sql</mask>
-    <mask>*.html, !*.ts.html</mask>
     <mask>*.py</mask>
     <mask>*.txt, *.clj</mask>
     <mask>*.edn</mask>
@@ -30,8 +28,10 @@
     <mask>!*.spec.ts</mask>
     <mask>*.json</mask>
     <mask>*.ts,</mask>
-    <mask>*.html, *.ts</mask>
     <mask>*.ts</mask>
     <mask>*.scss</mask>
+    <mask>*.html, *.ts</mask>
+    <mask>*.html,</mask>
+    <mask>*.html, !*.ts.html</mask>
   </component>
 </application>

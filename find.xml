@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*Client.java</mask>
     <mask>*Service.java</mask>
     <mask>*.xml</mask>
@@ -29,9 +30,9 @@
     <mask>*.json</mask>
     <mask>*.ts,</mask>
     <mask>*.ts</mask>
-    <mask>*.scss</mask>
     <mask>*.html, *.ts</mask>
     <mask>*.html,</mask>
     <mask>*.html, !*.ts.html</mask>
+    <mask>*.scss</mask>
   </component>
 </application>

@@ -3,8 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="LotValueProvider" type="AUTO_DETECTED" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".env1.example" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="kmz" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
@@ -20,6 +19,8 @@
       <removed_mapping pattern="AmInternalBaseJerseyTest.java" approved="true" type="JAVA" />
       <removed_mapping pattern="PermissionResourceTest" approved="true" type="CLASS" />
       <removed_mapping pattern="UserRequest.ts" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>

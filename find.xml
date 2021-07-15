@@ -29,11 +29,11 @@
     <mask>!*.spec.ts</mask>
     <mask>*.json</mask>
     <mask>*.ts,</mask>
-    <mask>*.ts</mask>
     <mask>*.html, *.ts</mask>
     <mask>*.html,</mask>
     <mask>*.html, !*.ts.html</mask>
     <mask>!*.ts.html</mask>
     <mask>*.scss</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
